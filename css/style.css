@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: lucida handwriting;
+    background-color:pink;
+    color:aliceblue;
+}
+
+#gamesnake {
+    width: 512px;
+    height: 512px;
+}
+
+
