@@ -4,13 +4,28 @@ body {
     justify-content: center;
     align-items: center;
     font-family: lucida handwriting;
-    background-color:pink;
-    color:aliceblue;
+    background-color: rgb(206, 254, 153);
+    color:rgb(42, 119, 16);
 }
 
-#gamesnake {
-    width: 512px;
-    height: 512px;
+.arvore {
+    position: fixed;
+    margin-right: 1200px;
+    width: 700px;
+    
 }
 
+.cobra {
+    position: fixed;
+    margin-left: 800px;
+    width: 200px;
+    margin-top: 400px;
+}
+
+.folha {
+    position: fixed;
+    width: 300px;
+    margin-left: 970px;
+    margin-bottom: 300px;
+}
 
